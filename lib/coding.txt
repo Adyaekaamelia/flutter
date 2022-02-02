@@ -1,0 +1,11 @@
+Container(
+          color: Colors.blueGrey,
+          width: 300,
+          height: 400,
+          margin: EdgeInsets.all(50),
+          child: Text(
+            'Ini Halaman aplikasi saya',
+            style: TextStyle(
+                fontSize: 20, fontWeight: FontWeight.bold, color: Colors.red),
+          ),
+        ),
